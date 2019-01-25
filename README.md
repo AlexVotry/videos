@@ -1,4 +1,4 @@
-This app uses youtube api and uses the first 10 videos and displays them on the side.  The first video defaults in the iframe.  
+This app uses youtube api and uses the first 5 videos and displays them on the side.  The first video defaults in the iframe.  
 
 ![screenshot](screenshot.png)
 
